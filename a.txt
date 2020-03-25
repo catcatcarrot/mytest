@@ -1,5 +1,2 @@
 master
-master-dev
-master3
-devdev
-dev2
+master
